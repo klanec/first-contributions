@@ -662,6 +662,7 @@ Marco Meinardi
 - [Kshitij Darekar](https://github.com/KshitijDarekar)
 - [Britta23714](https://github.com/Britta23714)
 - [Lakshay Yadav](https://github.com/Lucky0108)
+- [klanec](https://github.com/klanec)
 - [Mohan Periasami](https://github.com/mperiasa2)
 - [Raj kumar Suthar](https://github.com/raajsuthar)
 - [Xiwen Zhang](https://github.com/xiwen1995)
